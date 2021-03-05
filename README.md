@@ -1,30 +1,41 @@
-# 04 Web APIs: Code Quiz
+# codeQuiz
 
+## Description
 
-## User Story
+Code quiz for Web-Dev students in need of testing their knowledge.
 
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+## Table of Contents
 
+- [Installation](#installation)
 
-## Acceptance Criteria
+- [Usage](#usage)
 
-```
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
-```
+- [Contributing](#contributing)
 
+- [Tests](#tests)
 
+- [Questions](#questions)
 
+## Installation
+
+To install necessary dependencies, run the following command:
+
+none
+
+## Usage
+
+Assignment number 4 in the fullstack bootcamp.
+
+## Contributing
+
+conatct me through email if you would like to contribute to better this app.
+
+## Tests
+
+To run tests, run the following command:
+
+none
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at itscarlosalmanza@gmail.com. You can find more of my work at [itscarlosalmanza](https://github.com/itscarlosalmanza/).
