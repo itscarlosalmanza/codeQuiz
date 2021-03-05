@@ -1,0 +1,29 @@
+body {
+  background-color: #2767d6;
+  background-image: url(https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1966&q=80);
+}
+.quizStyles {
+  background-color: #1fa7ed;
+  margin-top: 200px;
+
+  width: 100%;
+}
+
+.titleStyle {
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding-left: 40%;
+}
+
+.instru {
+  padding-left: 20%;
+}
+
+.begin {
+  color: white;
+  background-color: #4a1ee3;
+}
+
+.btnStyle {
+  padding-left: 45%;
+}
